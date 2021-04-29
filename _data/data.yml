@@ -54,6 +54,11 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
+  - degree: Ruby on Rails Web Developer
+    university: BrightCoders Academy
+    time: 2020 August - current
+    details: |
+    
   - degree: Software Engineering
     university: Colima University
     time: 2017 August - current
