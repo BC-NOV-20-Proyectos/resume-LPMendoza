@@ -137,7 +137,10 @@ skills:
       
     - name: Ruby on Rails
       level: 60%
-            
+                        
+    - name: Linux
+      level: 40%
+      
     - name: PHP
       level: 20%
                   
