@@ -7,33 +7,25 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Luis Pedro Mendoza Aceves # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: lpedromendoza333@gmail.com
+  phone: 3121540822
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
-  bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  linkedin: https://www.linkedin.com/in/luis-pedro-mendoza-b560611a3/
+  github: https://github.com/LPMendoza
+  stack-overflow: https://stackoverflow.com/users/13991881/pedro-mendoza
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -43,102 +35,117 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Responsability
+      link: # dejar en blanco
+      
+    - item: Responsability
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    Software engineering student focused on web development, interested in
+    participating in the development of software solutions, collaborating with
+    work teams to reach the company objectives, enthusiastic in learning and
+    growing like a professional. I am specially interested in Front-end
+    development and UI/UX design but also, I am open to learn about different
+    areas and to apply that knowledge.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software Engineering
+    university: Colima University
+    time: 2017 August - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Programmer Analyst Area
+    university: Colima University
+    time: 2014 - 2017
     details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Front-end developer
+    time: 2021 - Present
+    company: Instituto de Transformación Digital en las Organizaciones Educativas
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      My main activities in this job are to design and to code friendly user
+      interfaces for web applications using different tools to design interface
+      prototypes and front-end technologies like JavaScript, JQuery, SASS and
+      Bootstrap.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Front-end developer
+    time: 2019-2020
+    company: Colima University
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      I collaborated in the developing of the Forms System of the University of
+      Colima. I worked with a team in the system architecture design and as a
+      front-end developer using HTML, CSS3, JavaScript, JQuery, Bootstrap and
+      some other libraries to create a PWA.
 
+  - role: Full Stack (School project)
+    time: 2019 - 2019
+    company: Colima University
+    details: |
+      I worked in a scholar project that consisted in developing a software
+      applying fundaments of software security and user experience. I developed
+      a server application that provided information to the client application. In
+      this project I used HTML5, CSS3, JavaScript, Bootstrap, Node.js, Express,
+      MySQL and Web Sockets.
+      
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
 # 60% para Competent
 # 80% para Proficient
 # 100% para Expert
+
 skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: JavaScript
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: React
+      level: 60%
 
-    - name: Matlab
-      level: 100%
+    - name: Node.js
+      level: 60%
 
-    - name: C/C++
-      level: 40%
+    - name: MySQL
+      level: 60%
+
+    - name: PostgreSQL
+      level: 60%
+
+    - name: HTML5
+      level: 60%
+      
+    - name: CSS3
+      level: 60%
+      
+    - name: SASS
+      level: 60%
+      
+    - name: Bootstrap 4
+      level: 60%
+      
+    - name: Ruby
+      level: 60%
+      
+    - name: Ruby on Rails
+      level: 60%
+            
+    - name: PHP
+      level: 20%
+                  
+    - name: Electron
+      level: 20%
+      
+    - name: GIT / GITHUB
+      level: 60%
 
 # NO MODIFICAR
 footer: >
